@@ -41,7 +41,7 @@ Faudrait aussi créer :
 
 Objectif : se positionner sur "restaurant produits frais Marseille", "bar à vin Longchamp", "marché couvert 13001"...
 
-### Un blog (sans se prendre la tête)
+### Un blog
 
 Ça peut vraiment aider niveau SEO. Trois types de contenus possibles :
 
