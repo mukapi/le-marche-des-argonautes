@@ -1,86 +1,88 @@
-# Stratégie SEO - Le Marché des Argonautes
+# Recommandations SEO - Le Marché des Argonautes
 
-## Analyse de la landing page actuelle
+## État des lieux
 
-Le concept : Un marché couvert à Marseille (boulevard Longchamp) qui réunit des artisans passionnés dans un ancien théâtre restauré. C'est un lieu hybride : marché + espace de restauration/bar.
+On a déjà du bon contenu avec les présentations détaillées de chaque artisan (François le primeur, Hugo & Clio cavistes, Marie-Ange & Alix fromagers, Nicolas boucher, Éric poissonnier). Le parcours de journée 8h-22h est aussi bien mis en avant.
 
-### Les verticales identifiées :
+Par contre, on est sur une seule page pour l'instant, donc on passe à côté de pas mal d'opportunités SEO. Voici ce qu'on pourrait faire.
 
-- **Primeur** - François (fruits & légumes de saison, circuit court 90km, 24h champ-étal)
-- **Caviste** - Hugo & Clio (vins du terroir, vrac & consigne)
-- **Fromager** - Marie-Ange & Alix (fromages fermiers au lait cru)
-- **Boucher** - Nicolas (viandes françaises : Charolaise IGP, agneau de Sisteron)
-- **Poissonnier** - Éric (ultra-frais, pêche locale méditerranée)
+## Ce que je propose
 
-Le parcours quotidien : 8h-22h avec petit-déj, courses matin, déjeuner, goûter, courses soir, dîner, dernier verre.
+### Des pages dédiées par artisan
 
----
+L'idée c'est de créer une page pour chaque commerçant :
 
-## Stratégie SEO recommandée
+- /primeur-marseille-longchamp
+- /caviste-marseille-longchamp
+- /fromager-marseille-longchamp
+- /boucher-marseille-longchamp
+- /poissonnier-marseille-longchamp
 
-### 1. Architecture du site - Pages verticales
+Pourquoi ? Parce que les gens cherchent "caviste Marseille", "poissonnier 13001", "primeur Longchamp"... avec une page dédiée on se positionne direct sur ces requêtes.
 
-Ton idée de pages par verticale est excellente. Je recommande :
+Sur chaque page :
 
-#### Pages commerçants (5 pages):
+- L'histoire de l'artisan et son savoir-faire
+- Les produits avec de vraies descriptions (pas juste une liste)
+- Leur façon de travailler (circuit court, sélection producteurs)
+- Les horaires
+- Des photos
 
-- `/primeur-marseille-longchamp`
-- `/caviste-marseille-longchamp`
-- `/fromager-marseille-longchamp`
-- `/boucher-marseille-longchamp`
-- `/poissonnier-marseille-longchamp`
+On peut aussi ajouter du schema.org pour que Google comprenne bien qu'on parle d'un commerce local.
 
-**Objectif SEO :** Capter les requêtes locales type "caviste Marseille", "fromager boulevard Longchamp", "poissonnier 13001", etc.
+### Quelques pages sur l'expérience
 
-**Contenu à inclure :**
+Faudrait aussi créer :
 
-- Présentation de l'artisan (son histoire, son savoir-faire)
-- Produits phares avec descriptions SEO
-- Méthodes de travail (circuit court, sélection producteurs)
-- Horaires d'ouverture
-- Photos produits + ambiance
-- Schema.org LocalBusiness pour chaque commerçant
+- Une page resto/bar - parce qu'on propose aussi ça toute la journée
+- Une page sur le concept du marché couvert - l'histoire du théâtre, etc.
+- Une page événements - pour les dégustations et soirées
+- Peut-être une page privatisation si c'est quelque chose que vous faites
 
-### 2. Pages services/expérience (3-4 pages)
+Objectif : se positionner sur "restaurant produits frais Marseille", "bar à vin Longchamp", "marché couvert 13001"...
 
-- `/restaurant-bar-marseille` - Pour l'aspect restauration/dégustation
-- `/marche-couvert-marseille` - Page générique sur le concept du marché
-- `/evenements-degustation-marseille` - Présenter les événements récurrents
-- `/privatisation` (optionnel) - Si vous proposez de la location d'espace
+### Un blog (sans se prendre la tête)
 
-**Objectif SEO :** Requêtes type "restaurant produits frais Marseille", "bar à vin Longchamp", "marché couvert 13001"
+Ça peut vraiment aider niveau SEO. Trois types de contenus possibles :
 
-### 3. Stratégie éditoriale Blog
+**Articles de saison**
+Genre "Les meilleurs légumes de novembre à Marseille", "Où trouver des produits locaux dans le 13001"... ça marche bien et c'est du contenu facile à produire régulièrement.
 
-**3 axes de contenu :**
+**Recettes & conseils**
+Des trucs pratiques : comment choisir un bon vin pour un pot-au-feu, comment conserver ses fromages, recettes avec les produits du marché.
 
-- **SEO Local & Saisonnier** : Articles sur les produits de saison à Marseille, guides locaux
-- **Guides & Recettes** : Conseils pratiques, recettes, accords mets-vins
-- **Storytelling & Producteurs** : Portraits d'artisans, rencontres avec producteurs, histoire du lieu
+**Portraits & histoires**
+Raconter les rencontres avec les producteurs, l'histoire du lieu, le quotidien des artisans. C'est du contenu qui plaît et qui se partage bien.
 
-### 5. Pages annexes essentielles
+### Les pages classiques
 
-- `/a-propos` - Histoire du lieu, valeurs, équipe
-- `/horaires-acces` - Plan, parking, transports (critère Google Local)
-- `/actualites` - Landing page blog/événements
-- `/contact`
-- `/faq` - Questions fréquentes (rich snippets potentiels)
+Faut pas oublier :
 
-### 6. Quick wins SEO technique
+- Une vraie page à propos (histoire du théâtre, les valeurs, l'équipe)
+- Horaires & accès détaillés (plan, parking, transports - Google aime bien ça)
+- Une page actu/blog
+- Contact (déjà fait)
+- FAQ - pour répondre aux questions récurrentes
 
-À vérifier/implémenter :
+### Côté technique
 
-- Google My Business optimisé (photos, horaires, avis)
-- Schema.org : LocalBusiness, Restaurant, Store
-- Balises meta optimisées par page
+Y'a quelques trucs à checker :
+
+**Google My Business**
+Faut que ce soit à jour avec photos, horaires, et commencer à avoir des avis clients.
+
+**Les balises techniques**
+
+- Schema.org pour les commerces
+- Meta descriptions sur chaque page
 - Sitemap XML
-- Vitesse de chargement (images optimisées WebP)
-- Mobile-first (crucial pour les requêtes locales)
-- Fil d'Ariane (breadcrumbs)
+- Vérifier que le site charge vite (les images ont l'air déjà optimisées en WebP, c'est bien)
+- Version mobile nickel (essentiel pour les recherches locales)
+- Fil d'ariane pour la navigation
 
-### 4. Requêtes cibles prioritaires
+### Sur quels mots se positionner
 
-#### Haute priorité (fort volume local) :
+**En priorité :**
 
 - marché couvert Marseille
 - primeur Marseille / Longchamp
@@ -89,34 +91,31 @@ Ton idée de pages par verticale est excellente. Je recommande :
 - fromager Marseille
 - restaurant produits frais Marseille
 
-#### Moyenne priorité (longue traîne) :
+**Longue traîne (secondaire) :**
 
 - légumes de saison Marseille
 - circuit court Marseille
 - vins au verre Marseille
 - bar à vin Longchamp
-- marché bio Marseille (même si pas 100% bio, capter l'intention)
+- marché bio Marseille (bon OK c'est pas 100% bio mais l'intention de recherche est là)
 
----
+## Par quoi on commence ?
 
-## Plan d'action
+**Phase 1 - Les fondations**
 
-### Priorité 1 - Fondations
+1. Créer les 5 pages artisans
+2. Mettre à jour Google My Business
+3. Régler les points techniques
+4. Démarrer le blog
 
-- Créer les 5 pages verticales commerçants
-- Optimiser Google My Business
-- Mettre en place les quick wins SEO technique
-- Lancer le blog
+**Phase 2 - On développe**
 
-### Priorité 2 - Expansion
+1. Ajouter les pages expérience/services
+2. Publier des articles régulièrement (pas besoin d'être ultra fréquent, juste régulier)
+3. Nouer quelques partenariats avec des blogs food marseillais pour des backlinks
 
-- Créer les pages services/expérience
-- Créer les pages annexes essentielles
-- Rythme blog régulier
-- Backlinks locaux (partenariats blogs food Marseille)
+**Phase 3 - On optimise**
 
-### Priorité 3 - Optimisation continue
-
-- Analyse performances SEO
-- Ajustements contenu selon search console
-- Amplification réseaux sociaux
+1. Analyser ce qui marche via Search Console
+2. Ajuster le contenu en fonction
+3. Travailler les réseaux sociaux pour amplifier
